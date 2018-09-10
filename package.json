@@ -1,0 +1,24 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Retrieve the request parameters from an incoming HTTP request",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive",
+    "test:debug": "mocha debug --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeScho/request-params.git"
+  },
+  "author": "JoeScho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeScho/request-params/issues"
+  },
+  "homepage": "https://github.com/JoeScho/request-params#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
