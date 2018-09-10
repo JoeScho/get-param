@@ -1,5 +1,5 @@
 {
-  "name": "c",
+  "name": "request-params",
   "version": "1.0.0",
   "description": "Retrieve the request parameters from an incoming HTTP request",
   "main": "index.js",
