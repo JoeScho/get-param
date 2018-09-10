@@ -1,5 +1,5 @@
 {
-  "name": "request-params",
+  "name": "get-param",
   "version": "1.0.0",
   "description": "Retrieve the request parameters from an incoming HTTP request",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoeScho/request-params.git"
+    "url": "git+https://github.com/JoeScho/get-param.git"
   },
   "author": "JoeScho",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JoeScho/request-params/issues"
+    "url": "https://github.com/JoeScho/get-param/issues"
   },
-  "homepage": "https://github.com/JoeScho/request-params#readme",
+  "homepage": "https://github.com/JoeScho/get-param#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.2.0"
